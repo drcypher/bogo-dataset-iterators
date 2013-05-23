@@ -240,7 +240,7 @@ The output of the above code is listed below.
 
 | Col 1        | Col 2        |
 | ------------ | ------------ |
-| key0 => Value 0 | 1 => Value 1 |
+| 0 => Value 0 | 1 => Value 1 |
 
 ### `CBFixedColumnGrid::fromAssoc`
 
