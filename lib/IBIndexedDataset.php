@@ -1,8 +1,11 @@
 <?php
 /**
  * Allows value and key access by integer zero-based index.
+ *
+ * @since 1.0
+ * @package Components
+ * @author Konstantinos Filios <konfilios@gmail.com>
  */
-
 interface IBIndexedDataset extends Countable
 {
 	/**

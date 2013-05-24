@@ -2,6 +2,9 @@
 /**
  * Indexed Dataset implementation for arrays with numeric indexes.
  *
+ * @since 1.0
+ * @package Components
+ * @author Konstantinos Filios <konfilios@gmail.com>
  */
 class CBIndexedArray implements IBIndexedDataset
 {

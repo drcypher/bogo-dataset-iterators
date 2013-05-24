@@ -2,6 +2,9 @@
 /**
  * Indexed Dataset implementation for associative arrays.
  *
+ * @since 1.0
+ * @package Components
+ * @author Konstantinos Filios <konfilios@gmail.com>
  */
 class CBIndexedAssoc extends CBIndexedArray
 {

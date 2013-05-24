@@ -2,6 +2,9 @@
 /**
  * Indexed Dataset grid implementation for max column count.
  *
+ * @since 1.0
+ * @package Components
+ * @author Konstantinos Filios <konfilios@gmail.com>
  */
 class CBMaxColumnGrid extends CBFixedColumnGrid
 {

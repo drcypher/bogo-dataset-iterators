@@ -2,6 +2,9 @@
 /**
  * Indexed Dataset grid implementation for fixed column count.
  *
+ * @since 1.0
+ * @package Components
+ * @author Konstantinos Filios <konfilios@gmail.com>
  */
 class CBFixedColumnGrid implements IBDatasetGrid
 {

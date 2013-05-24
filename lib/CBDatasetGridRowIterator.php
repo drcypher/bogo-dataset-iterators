@@ -1,6 +1,10 @@
 <?php
 /**
  * Row iterator of a dataset grid.
+ *
+ * @since 1.0
+ * @package Components
+ * @author Konstantinos Filios <konfilios@gmail.com>
  */
 class CBDatasetGridRowIterator implements SeekableIterator, Countable
 {
