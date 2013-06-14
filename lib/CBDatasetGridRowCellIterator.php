@@ -1,6 +1,10 @@
 <?php
-/*
+/**
  * Cell iterator of a dataset grid row.
+ *
+ * @since 1.0
+ * @package Components
+ * @author Konstantinos Filios <konfilios@gmail.com>
  */
 class CBDatasetGridRowCellIterator implements Iterator, Countable
 {

@@ -1,6 +1,10 @@
 <?php
 /**
  * Interface for all dataset grids.
+ *
+ * @since 1.0
+ * @package Components
+ * @author Konstantinos Filios <konfilios@gmail.com>
  */
 interface IBDatasetGrid extends IteratorAggregate
 {
