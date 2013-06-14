@@ -19,7 +19,7 @@ class CBMaxColumnGrid extends CBFixedColumnGrid
 		$itemCount = count($dataset);
 		$this->rowCount = ceil($itemCount / $this->columnCount);
 
-		if ($itemCount <= ($this->columnCount - 1) * $this->rowCount) {
+		if (($this->rowCount > 0) && ($itemCount <= ($this->columnCount - 1) * $this->rowCount)) {
 			$this->columnCount = ceil($itemCount / $this->rowCount);
 		}
 	}
